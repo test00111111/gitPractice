@@ -1,8 +1,14 @@
 ## only for git pratice 1/25
 
+hey hey yo yo
 
-hey hey yo yo 
+<<<<<<< HEAD
+hey hey yo yo
 
 ☆*: .｡. o(≧▽≦)o .｡.:*☆
 
-RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+# RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+
+p3 im potato
+
+> > > > > > > potato
