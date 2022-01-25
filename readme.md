@@ -1,8 +1,13 @@
-## only for git pratice 1/25
+( ͡°( ͡° ͜ʖ( ͡° ͜ʖ ͡°)ʖ ͡°) ͡°)
+
+<( ‵□′)───C＜─___-)||
 
 
+<<<<<<< HEAD
 hey hey yo yo 
 
 ☆*: .｡. o(≧▽≦)o .｡.:*☆
 
 RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+=======
+>>>>>>> branchTang
